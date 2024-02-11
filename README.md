@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaksem&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaksem" /> </p>
-<img align="right" alt="Coder GIF" height=250 width=350 src="[https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif](https://c.tenor.com/Lzr7afFB7xUAAAAd/tenor.gif)" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://c.tenor.com/Lzr7afFB7xUAAAAd/tenor.gif" />
 
 
 - 🌱 I’m currently learning **.net, MsSQL, Angular**
